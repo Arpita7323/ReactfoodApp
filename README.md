@@ -15,7 +15,8 @@ Welcome to the Food Ordering Website project! This is a mini project created wit
 
 ![Home Page](screenshots/screenshot2.png)
 
-![Home Page](screenshots/screenshot3.png)
+
+
 
 
 
